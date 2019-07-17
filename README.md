@@ -5,3 +5,6 @@
 - [x] virtual-dom
 - [ ] diff algorithm
 - [ ] x-router
+
+### Run
+```npm start```
